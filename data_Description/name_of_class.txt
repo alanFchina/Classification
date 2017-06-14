@@ -1,0 +1,90 @@
+A类:Amine
+
+A1:Adrenergic
+A2:Dopamine
+A3:Histamine
+A4:Muscarinic
+A5:Octopamine
+A6:5-Hydroxytryptamine
+
+B1:Adhesion
+
+C1:Cadherin
+
+D类:Corticotropin-releasing
+
+D1，D2。
+
+E类：Gamma Aminobutyric 
+
+E1:Gamma-Aminobutyric-acid-typeb-receptor-subunit1
+E2:Gamma-Aminobutyric-acid-typeb-receptor-subunit2
+
+F1:Gpcr_family_c
+
+G1:Latrophilin
+
+H类：Metabotropic Glutamate 
+
+H1:Metabotropic glutamate 1
+H2:Metabotropic glutamate 2
+H3:Metabotropic glutamate 3
+H4:Metabotropic glutamate 4
+H5:Metabotropic glutamate 5
+H6:Metabotropic glutamate 6
+H7:Metabotropic glutamate 7
+H8:Metabotropic glutamate 8
+
+I类: Peptide
+
+I1:Angiotensin
+I2:Bombesin
+I3:Bradykinin
+I4:Anaphylatoxin-chemotactic
+I5:Cholecystokinin
+I6:Chemokine
+I7:Endothelin
+I8:Fmet-leu-phe
+I9:Galanin
+I10:Melanocortin
+I11:Neuropeptidey
+I12:Neurotensin
+I13:Opioid
+I14:Orexin
+I15:Proteinase-activated
+I16:Somatostatin
+I17:Urotensin-2
+I18:Vasopreessin
+
+J类：Hormone Protein
+
+J1:Follicle stimulating hormone
+J2:Lutropin choriogonadotropic hormone
+J3:Thyrotropin releasing hormone
+
+K类：Prostanoid 
+
+K1:Prostacyclin
+K2:Prostaglandin
+K3:Thromboxana
+
+L1:Vasoactive
+
+M类：Taste
+
+M1:Taste receptor typel 1
+M2:Taste receptor typel 2
+M3:Taste receptor typel 3
+
+N类：Nucleotide_Like
+
+N1:Adenosine
+N2:Purinoceptors
+
+O1:Extracellular 
+
+R1:Secretin 
+
+Q1:Gastric 
+
+R1:Vomeronasal 
